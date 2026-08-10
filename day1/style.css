@@ -1,0 +1,20 @@
+table {
+    border: 2px solid black;
+    margin: 15px;
+    width: 90%;
+    border-collapse: collapse;
+
+}
+th, td {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+
+}
+.holiday, .corejava, .progra, .comm, .apt, .lunch, .ps{
+    text-align: center;
+    background-color: aqua;
+
+}
+
+
